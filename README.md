@@ -1,1 +1,2 @@
 # Rabbits
+I used C++ object-oriented programming to create a single player video game. The layer uses arrow keys to move around the game arena and dodge killer rabbits. The player can choose to press a button to drop a carrot that poisons rabbits and slows them down. The player dies (and the game ends) when they run into a rabbit. Included in this game is a recommendation algorithm that when the player presses "space" they automatically move in the optimal recommended direction.
